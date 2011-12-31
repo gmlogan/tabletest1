@@ -13,7 +13,7 @@ function executeOnlyFirstTime()
     //rest of the code
     alertDialog = Titanium.UI.createAlertDialog({
     title: 'Hello',
-    message: 'You got mail',
+    message: 'You got a suprise',
     buttonNames: ['OK','Doh!']});
    	alertDialog.show; 
     
